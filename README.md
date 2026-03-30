@@ -100,9 +100,14 @@ I specialize in high-complexity software engineering, focusing on **Computer Vis
 ---
 
 ## 📊 Performance Metrics
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=LoowieOblivion-Serafin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoowieOblivion-Serafin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <a href="https://github.com/LoowieOblivion-Serafin">
+    <img src="https://img.shields.io/badge/GitHub-Profile_Status-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active_Developer-success?style=for-the-badge&logo=git&logoColor=white" alt="Active Status" />
+  
+  <img src="https://img.shields.io/badge/Achievements-Pull_Shark-8946db?style=for-the-badge&logo=github-actions&logoColor=white" alt="Pull Shark" />
 </p>
 
 ---
@@ -115,7 +120,35 @@ I specialize in high-complexity software engineering, focusing on **Computer Vis
   <i>"Building the future, one neuron (or container) at a time."</i>
 </p>
 
+## 🚀 Lenguajes y Tecnologías favoritas
 
+* 👾
+    <img src="https://img.shields.io/badge/ASSEMBLER-007ACC?style=for-the-badge&logo=assembly&logoColor=white" alt="Assembler" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+
+* 👓
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+    <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/MICROSOFT_EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
+
+* 🌐
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+* ⚙️
+    <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+
+* 💻
+    <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+    <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <!--
 **LoowieOblivion-Serafin/LoowieOblivion-Serafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
