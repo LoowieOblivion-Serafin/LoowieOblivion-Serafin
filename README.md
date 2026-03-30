@@ -68,10 +68,19 @@
 </p>
 
 ### About me  
-I am a Computer Science undergraduate at the National University of Engineering (UNI) with a strong focus on the intersection of Artificial Intelligence and Computational Neuroscience. I am passionate about solving complex problems through efficient algorithms and advanced data structures.
+I am a Computer Science undergraduate at the **National University of Engineering (UNI)** with a strong focus on the intersection of **Artificial Intelligence** and **Computational Neuroscience**. I am passionate about solving complex problems through efficient algorithms and advanced data structures.
 
 My goal is to apply rigorous scientific research to software development to build technologies that expand human capabilities. I am always looking for new challenges in ML, Backend Development, and Scientific Computing.
 
+### 🧠 AI Researcher & IoT Systems Architect
+**Bridging the gap between Neural Signals and Scalable Industrial Solutions.**
+I specialize in high-complexity software engineering, focusing on **Computer Vision** and **Generative AI**. My expertise ranges from decoding human perception via **fMRI** to building robust **IoT ecosystems** for industrial monitoring in remote environments.
+
+- 🔬 **Current Focus:** Deep Learning architectures for mental imagery reconstruction.
+- ⚙️ **Engineering:** Designing modular, containerized systems for industrial-scale deployment.
+- 🏆 **Algorithm Enthusiast:** Competitive programming at Codeforces (ICPC training).
+
+---
 ## 🛠️ Technical Arsenal
 
 | Category | Tools & Technologies |
