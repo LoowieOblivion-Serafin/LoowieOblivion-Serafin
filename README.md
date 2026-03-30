@@ -68,6 +68,45 @@
 </p>
 
 ### About me  
+I am a Computer Science undergraduate at the National University of Engineering (UNI) with a strong focus on the intersection of Artificial Intelligence and Computational Neuroscience. I am passionate about solving complex problems through efficient algorithms and advanced data structures.
+
+My goal is to apply rigorous scientific research to software development to build technologies that expand human capabilities. I am always looking for new challenges in ML, Backend Development, and Scientific Computing.
+
+## 🛠️ Technical Arsenal
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Deep Learning** | PyTorch, CLIP, VQGAN, Computer Vision, Generative Models |
+| **Architectures** | Python, Docker, FastAPI, Modular Microservices, RBAC |
+| **Industrial IoT** | Edge Computing, Starlink Connectivity, Sensor Networks |
+| **Theoretical CS** | Formal Languages, Automata Theory, LaTeX Documentation |
+
+---
+
+## 📂 Featured Research & Projects
+
+### **Visual fMRI Decoder**
+*Reconstructing mental images from brain activity using CLIP & VQGAN.*
+> Exploring the frontier where neuroscience meets Artificial Intelligence.
+---
+
+## 📊 Performance Metrics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+## 📫 Let's Connect
+[LinkedIn](TU_LINK) | [Email](TU_EMAIL) | [Personal Website](TU_WEB)
+
+---
+<p align="center">
+  <i>"Building the future, one neuron (or container) at a time."</i>
+</p>
+
+
 <!--
 **LoowieOblivion-Serafin/LoowieOblivion-Serafin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
