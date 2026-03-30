@@ -92,14 +92,14 @@ My goal is to apply rigorous scientific research to software development to buil
 
 ## 📊 Performance Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=LoowieOblivion-Serafin&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoowieOblivion-Serafin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Let's Connect
-[LinkedIn](TU_LINK) | [Email](TU_EMAIL) | [Personal Website](TU_WEB)
+[LinkedIn](linkedin.com/in/alvaro-jesus-taipe-cotrina-576614337) | [Email](alvaro.taipe.c@uni.pe) | <!--[Personal Website](TU_WEB)-->
 
 ---
 <p align="center">
